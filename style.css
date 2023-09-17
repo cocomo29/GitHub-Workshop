@@ -1,0 +1,20 @@
+body{
+    background-color: #212121;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.card {
+    background-color: #0078D4 ; 
+}
+
+.card-title, .card a, .university-name {
+    color: #ffffff;
+}
+
+.card-number {
+    font-size: 12px; 
+    color: #ffffff; 
+    position: absolute; 
+    top: 5px; 
+    right: 5px;
+}
