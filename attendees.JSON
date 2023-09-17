@@ -2,5 +2,9 @@
   "attendees": [
       { "name": "Abdur Rafay", "username": "arafayr", "university": "UIT" },
       {"name": "Muhammad Faheem", "username": "SyedMuhammadFaheem", "university": "FAST NUCES"}
+      { "name": "Huzaifa Tanzeel", "username": "HuzaifaTanzeel", "university": "FAST NUCES" },
+      { "name": "Fardeen Tariq", "username": "iwaai", "university": "UIT" },
+      { "name": "Muhammad Waleed", "username": "notwld", "university": "UIT" },
+      { "name": "Ali Nadir", "username": "alinadir44", "university": "FAST NUCES" }
   ]
 }
