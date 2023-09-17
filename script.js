@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const list = document.getElementById("list");
   let attendees = []; 
 
-  fetch('attendees.json')
+  fetch(''https://raw.githubusercontent.com/cocomo29/GitHub-Workshop/main/attendees.json'')
       .then(response => response.json()) 
       .then(data => {
           attendees = data.attendees; 
