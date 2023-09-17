@@ -1,5 +1,7 @@
 {
   "attendees": [
-      { "name": "Abdur Rafay", "username": "arafayr", "university": "UIT" }
+      { "name": "Abdur Rafay", "username": "arafayr", "university": "UIT" },
+      { "name": "Huzaifa Tanzeel", "username": "huzaifa", "university": "FAST NUCES" }
+      
   ]
 }
