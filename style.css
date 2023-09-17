@@ -9,6 +9,13 @@ body{
 
 .card-title, .card a, .university-name {
     color: #ffffff;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.card-body {
+    height: 100px;
 }
 
 .card-number {
